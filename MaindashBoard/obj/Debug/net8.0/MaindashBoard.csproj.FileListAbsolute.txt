@@ -1,0 +1,14 @@
+D:\Freelancer\Hojayega.com\Project\MaindashBoard\MaindashBoard\bin\Debug\net8.0\MaindashBoard.exe
+D:\Freelancer\Hojayega.com\Project\MaindashBoard\MaindashBoard\bin\Debug\net8.0\MaindashBoard.deps.json
+D:\Freelancer\Hojayega.com\Project\MaindashBoard\MaindashBoard\bin\Debug\net8.0\MaindashBoard.runtimeconfig.json
+D:\Freelancer\Hojayega.com\Project\MaindashBoard\MaindashBoard\bin\Debug\net8.0\MaindashBoard.dll
+D:\Freelancer\Hojayega.com\Project\MaindashBoard\MaindashBoard\bin\Debug\net8.0\MaindashBoard.pdb
+D:\Freelancer\Hojayega.com\Project\MaindashBoard\MaindashBoard\obj\Debug\net8.0\MaindashBoard.GeneratedMSBuildEditorConfig.editorconfig
+D:\Freelancer\Hojayega.com\Project\MaindashBoard\MaindashBoard\obj\Debug\net8.0\MaindashBoard.AssemblyInfoInputs.cache
+D:\Freelancer\Hojayega.com\Project\MaindashBoard\MaindashBoard\obj\Debug\net8.0\MaindashBoard.AssemblyInfo.cs
+D:\Freelancer\Hojayega.com\Project\MaindashBoard\MaindashBoard\obj\Debug\net8.0\MaindashBoard.csproj.CoreCompileInputs.cache
+D:\Freelancer\Hojayega.com\Project\MaindashBoard\MaindashBoard\obj\Debug\net8.0\MaindashBoard.dll
+D:\Freelancer\Hojayega.com\Project\MaindashBoard\MaindashBoard\obj\Debug\net8.0\refint\MaindashBoard.dll
+D:\Freelancer\Hojayega.com\Project\MaindashBoard\MaindashBoard\obj\Debug\net8.0\MaindashBoard.pdb
+D:\Freelancer\Hojayega.com\Project\MaindashBoard\MaindashBoard\obj\Debug\net8.0\MaindashBoard.genruntimeconfig.cache
+D:\Freelancer\Hojayega.com\Project\MaindashBoard\MaindashBoard\obj\Debug\net8.0\ref\MaindashBoard.dll

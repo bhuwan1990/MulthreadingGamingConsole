@@ -1,0 +1,14 @@
+D:\Freelancer\Hojayega.com\Project\ConsoleApp1\ConsoleApp1\bin\Release\net8.0\ConsoleApp1.exe
+D:\Freelancer\Hojayega.com\Project\ConsoleApp1\ConsoleApp1\bin\Release\net8.0\ConsoleApp1.deps.json
+D:\Freelancer\Hojayega.com\Project\ConsoleApp1\ConsoleApp1\bin\Release\net8.0\ConsoleApp1.runtimeconfig.json
+D:\Freelancer\Hojayega.com\Project\ConsoleApp1\ConsoleApp1\bin\Release\net8.0\ConsoleApp1.dll
+D:\Freelancer\Hojayega.com\Project\ConsoleApp1\ConsoleApp1\bin\Release\net8.0\ConsoleApp1.pdb
+D:\Freelancer\Hojayega.com\Project\ConsoleApp1\ConsoleApp1\obj\Release\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Freelancer\Hojayega.com\Project\ConsoleApp1\ConsoleApp1\obj\Release\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Freelancer\Hojayega.com\Project\ConsoleApp1\ConsoleApp1\obj\Release\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\Freelancer\Hojayega.com\Project\ConsoleApp1\ConsoleApp1\obj\Release\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Freelancer\Hojayega.com\Project\ConsoleApp1\ConsoleApp1\obj\Release\net8.0\ConsoleApp1.dll
+D:\Freelancer\Hojayega.com\Project\ConsoleApp1\ConsoleApp1\obj\Release\net8.0\refint\ConsoleApp1.dll
+D:\Freelancer\Hojayega.com\Project\ConsoleApp1\ConsoleApp1\obj\Release\net8.0\ConsoleApp1.pdb
+D:\Freelancer\Hojayega.com\Project\ConsoleApp1\ConsoleApp1\obj\Release\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\Freelancer\Hojayega.com\Project\ConsoleApp1\ConsoleApp1\obj\Release\net8.0\ref\ConsoleApp1.dll

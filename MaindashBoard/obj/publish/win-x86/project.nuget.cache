@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "q8B7CskehF8Eh6N5F8lFoj+4vlLnYPXUo4+WY1hlrTQs6HUcok2tj6+DeFeY8kWlVI6xJSL/eYsFFQSoHKHo0g==",
+  "success": true,
+  "projectFilePath": "D:\\Freelancer\\Hojayega.com\\Project\\MaindashBoard\\MaindashBoard\\MaindashBoard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BHUWAN\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.0\\microsoft.netcore.app.runtime.win-x86.8.0.0.nupkg.sha512",
+    "C:\\Users\\BHUWAN\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.0\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.0.nupkg.sha512",
+    "C:\\Users\\BHUWAN\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.0\\microsoft.aspnetcore.app.runtime.win-x86.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

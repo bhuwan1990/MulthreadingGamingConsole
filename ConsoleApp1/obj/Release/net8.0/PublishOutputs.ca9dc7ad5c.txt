@@ -1,0 +1,5 @@
+C:\Users\BHUWAN\OneDrive\Desktop\Console\ConsoleApp1.exe
+C:\Users\BHUWAN\OneDrive\Desktop\Console\ConsoleApp1.dll
+C:\Users\BHUWAN\OneDrive\Desktop\Console\ConsoleApp1.deps.json
+C:\Users\BHUWAN\OneDrive\Desktop\Console\ConsoleApp1.runtimeconfig.json
+C:\Users\BHUWAN\OneDrive\Desktop\Console\ConsoleApp1.pdb
