@@ -8,15 +8,9 @@
 
 Note:
 -----
-Player name should be unique.
-Once exit the gaming console exit cannot continue the existing game.
+- Player name should be unique.
+- Once exit the gaming console exit cannot continue the existing game.
 
 
-Enter Your Name: p1
--------------------------------------------------
-Console ID      Player Name     Score
--------------------------------------------------
-2975db68be07    p1              0
--------------------------------------------------
+![image](https://github.com/user-attachments/assets/ce8083a0-e112-42fb-89ad-1b316d47124f)
 
-Press 'U' to increase score, 'E' to exit:
