@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Freelancer\\Hojayega.com\\Project\\MaindashBoard\\MaindashBoard\\MaindashBoard.csproj": {}
+    "C:\\Users\\BHUWAN\\source\\repos\\bhuwan1990\\MulthreadingGamingConsole\\MaindashBoard\\MaindashBoard.csproj": {}
   },
   "projects": {
-    "D:\\Freelancer\\Hojayega.com\\Project\\MaindashBoard\\MaindashBoard\\MaindashBoard.csproj": {
+    "C:\\Users\\BHUWAN\\source\\repos\\bhuwan1990\\MulthreadingGamingConsole\\MaindashBoard\\MaindashBoard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Freelancer\\Hojayega.com\\Project\\MaindashBoard\\MaindashBoard\\MaindashBoard.csproj",
+        "projectUniqueName": "C:\\Users\\BHUWAN\\source\\repos\\bhuwan1990\\MulthreadingGamingConsole\\MaindashBoard\\MaindashBoard.csproj",
         "projectName": "MaindashBoard",
-        "projectPath": "D:\\Freelancer\\Hojayega.com\\Project\\MaindashBoard\\MaindashBoard\\MaindashBoard.csproj",
+        "projectPath": "C:\\Users\\BHUWAN\\source\\repos\\bhuwan1990\\MulthreadingGamingConsole\\MaindashBoard\\MaindashBoard.csproj",
         "packagesPath": "C:\\Users\\BHUWAN\\.nuget\\packages\\",
-        "outputPath": "D:\\Freelancer\\Hojayega.com\\Project\\MaindashBoard\\MaindashBoard\\obj\\",
+        "outputPath": "C:\\Users\\BHUWAN\\source\\repos\\bhuwan1990\\MulthreadingGamingConsole\\MaindashBoard\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BHUWAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
